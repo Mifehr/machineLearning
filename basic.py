@@ -1,5 +1,6 @@
 
-# This is the first (and so-called dummy) exercise of the introduction to machine learning course.
+# This is the first (and so-called dummy) exercise of 
+# the introduction to machine learning course.
 
 import numpy as np
 import matplotlib.pyplot as plt 
@@ -27,7 +28,7 @@ from matplotlib.transforms import Bbox
 
 # Data Generation 
 
-points = 100
+points = 101
 noise = 0.6
 a = 3
 b = 1
